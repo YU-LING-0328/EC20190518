@@ -1,6 +1,6 @@
 body {
     font-family: adobe-garamond-pro, times new roman;
-    background: #fff url('images/bg_wood.jpg') center top no-repeat;
+    background: #fff url('../img/img_base/bg_wood.jpg') center top no-repeat;
     background-size: 100%;
     margin: 0;
   }
